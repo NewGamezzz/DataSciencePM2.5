@@ -1,0 +1,8 @@
+backup/
+datasci_dataset_2022/
+predict/
+ghostdriver.log
+saraburi_predict_test_best.csv
+submission.csv
+submissionSmooth11.csv
+submissionSmooth13.csv
